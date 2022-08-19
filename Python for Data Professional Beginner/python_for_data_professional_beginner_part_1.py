@@ -309,6 +309,7 @@ print(total_pengeluaran)
 print(total_pemasukan)
 
 
+
 # CHAPTER 5
 # Ekspedisi Pamanku
 # Data
